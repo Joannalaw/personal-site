@@ -1,0 +1,86 @@
+
+body{ 
+    background-color:#679b9b;
+    margin: 0px; 
+    text-align: center;
+    font-family: 'Cuprum', sans-serif;
+    
+
+}
+
+p{
+    margin-bottom: 5px;
+    margin-left: 30px;
+    text-align: left;
+}
+
+td{
+    padding:30px;
+}
+
+table{
+    margin:auto
+}
+/* hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    margin-top: 50px;;
+    margin-bottom: 50px;
+} */
+
+h1,h3{
+    color: rgb(75, 74, 74);
+}
+
+
+
+
+#intro{
+    margin:30px;
+    
+}
+
+#work{
+    background-color: #aacfcf;
+    padding:50px 50px 10px;
+
+}
+
+
+
+.jobT{
+    text-align: left;
+    margin-left:30px;
+    margin-bottom: 0px;
+}
+
+li{
+    text-align: left;
+}
+
+.badge{
+    display:table-cell;
+    font-size: 15px;
+    padding: 5px 20px;
+}
+
+.badge:hover{
+    opacity: 0.6;
+}
+
+#edu{
+    background-color: #fde2e2;
+    padding:50px 50px 10px;
+}
+
+#cr{
+    text-align: center;
+    color:grey;
+}
+
+#footer{
+    padding: 20px;
+}
