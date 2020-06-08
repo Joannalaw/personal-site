@@ -1,10 +1,9 @@
 
 body{ 
     background-color:#679b9b;
-    margin: 0px; 
     text-align: center;
     font-family: 'Cuprum', sans-serif;
-    width:100%;
+
 
 }
 
@@ -39,24 +38,25 @@ h1,h3{
 
 
 #intro{
-    margin:30px;
-    width:100%;
-    
+    margin:30px 0px;
+
 }
 
 #work{
     background-color: #aacfcf;
 
-    width:100%;
 }
 
+div{
+    width: 100%;
+}
 
 
 .jobT{
     text-align: left;
     margin-left:30px;
     margin-bottom: 0px;
-    width:100%;
+
 }
 
 li{
