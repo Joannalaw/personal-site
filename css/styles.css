@@ -4,7 +4,7 @@ body{
     margin: 0px; 
     text-align: center;
     font-family: 'Cuprum', sans-serif;
-    
+    width:100%;
 
 }
 
@@ -15,7 +15,7 @@ p{
 }
 
 td{
-    padding:30px;
+
 }
 
 table{
@@ -40,13 +40,14 @@ h1,h3{
 
 #intro{
     margin:30px;
+    width:100%;
     
 }
 
 #work{
     background-color: #aacfcf;
-    padding:50px 50px 10px;
 
+    width:100%;
 }
 
 
@@ -55,6 +56,7 @@ h1,h3{
     text-align: left;
     margin-left:30px;
     margin-bottom: 0px;
+    width:100%;
 }
 
 li{
@@ -73,7 +75,7 @@ li{
 
 #edu{
     background-color: #fde2e2;
-    padding:50px 50px 10px;
+    /* padding:50px 50px 10px; */
 }
 
 #cr{
